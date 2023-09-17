@@ -20,4 +20,3 @@ Um aplicativo de que incentiva a doação de sangue e permite aos usuários enco
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-### :) ###
