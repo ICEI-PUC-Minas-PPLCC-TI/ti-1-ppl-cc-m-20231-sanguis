@@ -73,7 +73,7 @@ Diante do exposto, o problema que se busca resolver é a baixa taxa de doação 
 COLOCAR AQUI A MATRIZ CSD
 ![Exemplo Matriz CSD](imaages/../images/persona.png)
 ![Exemplo Brainstorm](imaages/../images/Brainstorm_HelpLife.png)
-![Exemplo Mural de Possibilidades](imaages/../images/persona.pngMural_Possibilidades_HelpLife.png)
+![Exemplo Mural de Possibilidades](imaages/../images/Mural_Possibilidades_HelpLife.png)
 
 
 
