@@ -199,7 +199,7 @@ Dentre as preocupações para a montagem da interface do sistema, estabeleceu-se
 O fluxograma apresentado na Figura 07 mostra o fluxo de interação do usuário pelas telas do sistema. Tais telas serão abordadas de forma mais específica no Wireframes.
 
 
-> ![Exemplo de UserFlow](imaages/../images/User_Flow_HelpLife.png)
+> ![Exemplo de UserFlow](imaages/../images/User_Flow_HelpLife.jpg)
 
 
 ## Wireframes
