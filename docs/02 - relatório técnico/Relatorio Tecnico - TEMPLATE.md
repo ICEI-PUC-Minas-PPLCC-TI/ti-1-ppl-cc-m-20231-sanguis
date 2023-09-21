@@ -313,7 +313,7 @@ Esta tela pode ser acessada pelo botão “Pré-requisitos e informações” na
 
 
 
-Tela Encontrar Hemocentros
+**Tela Encontrar Hemocentros**
 A tela "Encontrar Hemocentros" também é uma das principais do site, e nela, o usuário pode pesquisar - utilizando seu endereço ou CEP - quais são os Hemocentros na sua região/região pesquisada 
 
 **Tela Encontrar Hemocentros - Wireframe**:
@@ -325,27 +325,35 @@ A tela "Encontrar Hemocentros" também é uma das principais do site, e nela, o 
 
 
 
-Tela Compartilhe a causa
+**Tela Compartilhe a causa**
 
 Esta tela é destinada ao compartilhamento de campanhas de doações de sangue pessoais ou regionais. Nela, qualquer usuário pode cadastrar e compartilhar uma campanha. Seguem seus principais componentes:
-Barra de pesquisa: permite que o usuário procure o nome de uma campanha ou o nome de um usuário que esteja com uma campanha cadastrada. 
-Botões de filtro: permitem o usuário a realizar uma busca personalizada, tendo as categorias de:
-Tipo sanguíneo 
-Região
-Hospital
-Cartão da campanha: o principal componente da tela com as seguintes características:
-Uma imagem ilustrativa da campanha
-O nome do usuário que publicou
-Um texto opcional, escrito pelo usuário
-Um botão para compartilhar a campanha, ele gera um link que pode ser compartilhado em qualquer plataforma
+-Barra de pesquisa: permite que o usuário procure o nome de uma campanha ou o nome de um usuário que esteja com uma campanha cadastrada. 
+- Botões de filtro: permitem o usuário a realizar uma busca personalizada, tendo as categorias de:
+    -> Tipo sanguíneo 
+    -> Região
+    -> Hospital
+- Cartão da campanha: o principal componente da tela com as seguintes características:
+   -> Uma imagem ilustrativa da campanha
+   -> O nome do usuário que publicou
+   -> Um texto opcional, escrito pelo usuário
+   -> Um botão para compartilhar a campanha, ele gera um link que pode ser compartilhado em qualquer plataforma
+
+  **Tela Compartilhe a Causa - Alta Fidelidade**:
+![Tela Compartilhe a Causa- Alta Fidelidade](imaages/../images/Tela_Compartilhe_Causa_AltaFidelidade.png)
 
 
-Tela Agendar Doação
+
+**Tela Agendar Doação**
 
 Esta tela possui um formulário para realizar o agendamento da doação de sangue, inspirado nas perguntas realizadas para o agendamento presencial ou via telefonema e nas plataformas de hemocentros que já possuem um formulário para agendamento online.
 O usuário pode acessar esta tela clicando no botão “Agendar doação” na Navbar presente em todas as páginas do site, ou, ao encontrar um receptor e clicar em “Fazer doação” em seu cartão. Neste caso, os dados do receptor são preenchidos automaticamente.
 
+**Tela Agendar Doação - Wireframe**:
+![Tela Agendar Doacao](imaages/../images/Tela_Agenda_Doacao.png)
 
+**Tela Agendar Doação - Alta Fidelidade**:
+![Tela Agendar Doacao- Alta Fidelidade](imaages/../images/Tela_Agenda_Doacao_AltaFidelidade.png)
 
 
 
