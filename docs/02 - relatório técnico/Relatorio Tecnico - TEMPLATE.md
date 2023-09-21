@@ -11,12 +11,12 @@ Sistemas de Informação
 ## Participantes
 
 > Os membros do grupo são: 
-> Ana Beatriz Costa Viana
-> Gustavo de Assis Vilarino
-> Mariana Vitória
-> Matheus Barros
-> Matheus Campos
-> Vinícius Xavier
+ Ana Beatriz Costa Viana
+ Gustavo de Assis Vilarino
+ Mariana Vitória
+ Matheus Barros
+ Matheus Campos
+ Vinícius Xavier
 
 # Estrutura do Documento
 
@@ -70,8 +70,8 @@ Sendo assim, acredita-se que o uso de tecnologias pode favorecer a captação de
 Diante do exposto, o problema que se busca resolver é a baixa taxa de doação de sangue através da rápida conexão entre doadores e receptores. 
 
 
-COLOCAR AQUI A MATRIZ CSD
-![Exemplo Matriz CSD](imaages/../images/persona.png)
+
+![Exemplo Matriz CSD](imaages/../images/Matriz de Alinhamento (2).pdf)
 ![Exemplo Brainstorm](imaages/../images/Brainstorm_HelpLife.png)
 ![Exemplo Mural de Possibilidades](imaages/../images/Mural_Possibilidades_HelpLife.png)
 
