@@ -70,9 +70,11 @@ Sendo assim, acredita-se que o uso de tecnologias pode favorecer a captação de
 Diante do exposto, o problema que se busca resolver é a baixa taxa de doação de sangue através da rápida conexão entre doadores e receptores. 
 
 
-COLOCAR AQUI A MATRIZ CSD, E O BRAINSTORM
+COLOCAR AQUI A MATRIZ CSD
 ![Exemplo Matriz CSD](imaages/../images/persona.png)
-![Exemplo Brainstorm](imaages/../images/persona.png)
+![Exemplo Brainstorm](imaages/../images/Brainstorm_HelpLife)
+![Exemplo Mural de Possibilidades](imaages/../images/Mural_Possibilidades_HelpLife)
+
 
 
 ## Objetivos
@@ -197,7 +199,7 @@ Dentre as preocupações para a montagem da interface do sistema, estabeleceu-se
 O fluxograma apresentado na Figura 07 mostra o fluxo de interação do usuário pelas telas do sistema. Tais telas serão abordadas de forma mais específica no Wireframes.
 
 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![Exemplo de UserFlow](images/User_Flow_HelpLife)
 
 
 ## Wireframes
