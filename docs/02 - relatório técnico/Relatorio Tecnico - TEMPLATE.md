@@ -71,7 +71,8 @@ Diante do exposto, o problema que se busca resolver é a baixa taxa de doação 
 
 
 
-![Exemplo Matriz CSD](imaages/../images/Matriz de Alinhamento (2).pdf)
+![Exemplo Matriz CSD](imaages/../images/Matriz_HelpLife.pdf)
+![Exemplo Mapa de alinhamento](imaages/../images/mapa_HelpLife.pdf)
 ![Exemplo Brainstorm](imaages/../images/Brainstorm_HelpLife.png)
 ![Exemplo Mural de Possibilidades](imaages/../images/Mural_Possibilidades_HelpLife.png)
 
