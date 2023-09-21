@@ -10,13 +10,16 @@ Sistemas de Informação
 
 ## Participantes
 
-> Os membros do grupo são: 
- Ana Beatriz Costa Viana
- Gustavo de Assis Vilarino
- Mariana Vitória
- Matheus Barros
- Matheus Campos
- Vinícius Xavier
+> Os membros do grupo são:
+<ul>
+ <li>Ana Beatriz Costa Viana</li>
+ <li>Gustavo de Assis Vilarino</li>
+ <li>Mariana Vitória</li>
+ <li>Matheus Barros</li>
+ <li>Matheus Campos</li>
+ <li>Vinicius Xavier</li>
+</ul>
+ 
 
 # Estrutura do Documento
 
