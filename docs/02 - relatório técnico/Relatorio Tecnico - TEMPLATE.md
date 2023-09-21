@@ -120,22 +120,22 @@ Para o sucesso do projeto foram utilizadas metodologias que permitissem que o gr
 As personas criadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem. Elas tem como proposta representar que qualquer pessoa adulta e saudável pode ser um possível usuário do sistema Help Life.
 
 
-> *PERSONA 01 - JOSÉ SILVA** 
+> **PERSONA 01 - JOSÉ SILVA** 
 > ![Exemplo de Persona](imaages/../images/Persona_1.png)
 
->  *PERSONA 02 - CARLOS COSTA** 
+>  **PERSONA 02 - CARLOS COSTA** 
 > ![Exemplo de Persona](imaages/../images/Persona_2.png)
 
->  *PERSONA 03 - AMANDA** 
+>  **PERSONA 03 - AMANDA** 
 > ![Exemplo de Persona](imaages/../images/Persona_3.png)
 
->  *PERSONA 04 - lIVIA** 
+>  **PERSONA 04 - lIVIA** 
 > ![Exemplo de Persona](imaages/../images/Persona_4.png)
 
->  *PERSONA 05 - CAROLINA** 
+>  **PERSONA 05 - CAROLINA** 
 > ![Exemplo de Persona](imaages/../images/Persona_5.png)
 
-* Exemplo Mapa de Empatia **
+**Exemplo Mapa de Empatia **
 * ![Exemplo de Mapa de Empatia ](imaages/../images/persona.png)
 
 
