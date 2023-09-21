@@ -120,8 +120,20 @@ Para o sucesso do projeto foram utilizadas metodologias que permitissem que o gr
 As personas criadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem. Elas tem como proposta representar que qualquer pessoa adulta e saudável pode ser um possível usuário do sistema Help Life.
 
 
-> **Exemplo de Persona** 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> *PERSONA 01 - JOSÉ SILVA** 
+> ![Exemplo de Persona](imaages/../images/Persona_1.png)
+
+>  *PERSONA 02 - CARLOS COSTA** 
+> ![Exemplo de Persona](imaages/../images/Persona_2.png)
+
+>  *PERSONA 03 - AMANDA** 
+> ![Exemplo de Persona](imaages/../images/Persona_3.png)
+
+>  *PERSONA 04 - lIVIA** 
+> ![Exemplo de Persona](imaages/../images/Persona_4.png)
+
+>  *PERSONA 05 - CAROLINA** 
+> ![Exemplo de Persona](imaages/../images/Persona_5.png)
 
 * Exemplo Mapa de Empatia **
 * ![Exemplo de Mapa de Empatia ](imaages/../images/persona.png)
@@ -209,9 +221,9 @@ Conforme o fluxo de telas do projeto, apresentado no item anterior, a seguir est
 Navbar: uma estrutura que possui os botões para a navegação das telas principais do site.
 Main: a estrutura que irá apresentar os principais componentes de cada página.
 
-> **Exemplo**:
+> **ESTRUTURA PADRÃO DO SITE **:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Estrutura Padrão do Site](imaages/../images/Estrutura_Padrao_Site.png)
 
 Landing Page
 A landing page tem como objetivo introduzir as principais funcionalidades da aplicação e incentivar o usuário a se cadastrar no site. Ela reúne, principalmente, componentes visuais e animações, mas também possui os seguintes componentes interativos:
@@ -220,23 +232,39 @@ Botões “quero doar” e “quero receber”: que guiam o usuário à uma pág
 Botão começar agora: que também guiam o usuário à tela de login
 Botões de compartilhamento: os botões possuem os logos das principais redes sociais se encontram ao final da tela, que gerarão um link para que o usuário compartilhe sobre a aplicação.
 
-> **Exemplo**:
+> **Langing Page - Wireframe**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Langing Page](imaages/../images/Langing_Page.png)
+
+> **Langing Page - Alta Fidelidade**:
+> 
+> ![Langing Page Alta Fidelidade](imaages/../images/Langing_Page_Alta_Fidelidade.png)
 
 Tela de Cadastro
 A página de cadastro permite que o usuário cadastre seus dados no site para, assim, usufruir de todas as funcionalidades do mesmo. Ela possui os campos mais utilizados nas telas de cadastro em geral, possuindo como diferencial o campo que pede ao usuário que selecione seu tipo sanguíneo.
 
-> **Exemplo**:
+> **Tela de Cadastro - Wireframe**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Tela de Cadastro](imaages/../images/Tela_Cadastro_Wireframe.png)
+
+> **Tela de Cadastro - Alta Fidelidade**:
+> 
+> ![Tela de Cadastro](imaages/../images/Tela_Cadastro_AltaFidelidade.png)
 
 Tela de Login
 A tela de login cumpre o objetivo de validar os dados do usuário já cadastrado no site. A tela de login possui duas etapas, no primeiro momento, a validação dos dados é realizada, no segundo, o usuário pode escolher se ele quer utilizar o perfil de “Doador” ou de “Receptor”.
 
-> **Exemplo**:
+>  **Tela de Login - Wireframe**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Tela de Login](imaages/../images/Tela_Login_Wireframe.png)
+
+ **Tela de Login - Alta Fidelidade**:
+> 
+> ![Tela de Login](imaages/../images/Tela_Login_AltaFidelidade.png)
+
+**Tela de Login 2 - Alta Fidelidade**:
+![Tela de Login 2](imaages/../images/Tela_Escolha_Perfil.png)
+
 
 
 Tela Principal do Usuário
@@ -245,12 +273,45 @@ Sua próxima doação: mostra o local da doação, horário, receptor e o hospit
 Suas últimas doações: reúne os dados básicos sobre as últimas doações realizadas pelos usuários.
 A do usuário “Receptor” concentra as informações sobre as suas campanhas ativas.
 
+**Tela Principal do Usuário - Wireframe**:
+![Tela de Principal do Usuario ](imaages/../images/Tela_Principal_Usuario_Wireframe.png)
+
+**Tela Principal do Doador - Alta Fidelidade**:
+![Tela de Principal do Doador ](imaages/../images/Tela_Doador_AltaFidelidade.png)
+
+**Tela Principal do Receptor - Alta Fidelidade**:
+![Tela de Principal do Receptor ](imaages/../images/Tela_Receptor_AltaFidelidade.png)
+
+
 Tela Encontrar Receptores
 A tela principal do usuário “Doador” possui informações sobre as doações do usuário:
 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+**Tela Encontrar Receptor - Wireframe**:
+![Tela de Encontrar Receptor](imaages/../images/Tela_Encontrar_Receptores_Wireframe.png)
+
+Tela Perguntas Frequentes 
+
+A tela de perguntas frequentes tem como proposta solucionar as dúvidas mais comuns que os usuários têm acerca da doação de sangue. Os componentes da interface seguem:
+Cartão de dúvida: apresentam-se inicialmente fechados apenas com o nome da pergunta aparecendo, caso o usuário clique em algum deles, o cartão irá se expandir e exibir as informações a respeito do tema.
+Link para adicionar uma dívida: ao final da página encontra-se um link para que o usuário possa cadastrar uma dúvida caso ele não encontre sua dúvida ali. Este link deve enviar o usuário para um formulário em que ele cadastrará sua dúvida, que será analisada por um time técnico e será adicionada ao site juntamente com a sua resposta.
+
+Tela Encontrar Hemocentros
+A tela "Encontrar Hemocentros" também é uma das principais do site, e nela, o usuário pode pesquisar - utilizando seu endereço ou CEP - quais são os Hemocentros na sua região/região pesquisada 
+
+Tela Compartilhe a causa
+Esta tela é destinada ao compartilhamento de campanhas de doações de sangue pessoais ou regionais. Nela, qualquer usuário pode cadastrar e compartilhar uma campanha. Seguem seus principais componentes:
+Barra de pesquisa: permite que o usuário procure o nome de uma campanha ou o nome de um usuário que esteja com uma campanha cadastrada. 
+Botões de filtro: permitem o usuário a realizar uma busca personalizada, tendo as categorias de:
+Tipo sanguíneo 
+Região
+Hospital
+Cartão da campanha: o principal componente da tela com as seguintes características:
+Uma imagem ilustrativa da campanha
+O nome do usuário que publicou
+Um texto opcional, escrito pelo usuário
+Um botão para compartilhar a campanha, ele gera um link que pode ser compartilhado em qualquer plataforma
+
+
 
 
 
