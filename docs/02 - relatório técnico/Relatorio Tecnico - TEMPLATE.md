@@ -72,10 +72,8 @@ Diante do exposto, o problema que se busca resolver é a baixa taxa de doação 
 
 COLOCAR AQUI A MATRIZ CSD
 ![Exemplo Matriz CSD](imaages/../images/persona.png)
-![Exemplo Brainstorm](ti-1-ppl-cc-m-20231-sanguis/docs/02-relatório técnico
-/images/Brainstorm_HelpLife.png)
-![Exemplo Mural de Possibilidades](ti-1-ppl-cc-m-20231-sanguis/docs/02-relatório técnico
-/images/Mural_Possibilidades_HelpLife.png)
+![Exemplo Brainstorm](imaages/../images/Brainstorm_HelpLife.png)
+![Exemplo Mural de Possibilidades](imaages/../images/persona.pngMural_Possibilidades_HelpLife.png)
 
 
 
@@ -201,8 +199,7 @@ Dentre as preocupações para a montagem da interface do sistema, estabeleceu-se
 O fluxograma apresentado na Figura 07 mostra o fluxo de interação do usuário pelas telas do sistema. Tais telas serão abordadas de forma mais específica no Wireframes.
 
 
-> ![Exemplo de UserFlow](ti-1-ppl-cc-m-20231-sanguis/docs/02-relatório técnico
-/images/User_Flow_HelpLife.png)
+> ![Exemplo de UserFlow](imaages/../images/User_Flow_HelpLife.png)
 
 
 ## Wireframes
