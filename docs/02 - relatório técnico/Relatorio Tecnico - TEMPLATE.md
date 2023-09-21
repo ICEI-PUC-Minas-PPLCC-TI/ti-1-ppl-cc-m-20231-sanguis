@@ -71,8 +71,8 @@ Diante do exposto, o problema que se busca resolver é a baixa taxa de doação 
 
 
 
-![Exemplo Matriz CSD](imaages/../images/Matriz_HelpLife.pdf)
-![Exemplo Mapa de alinhamento](imaages/../images/mapa_HelpLife.pdf)
+![Exemplo Matriz CSD](imaages/../images/Matriz_Alinha_HelpLife.jpeg)
+![Exemplo Mapa de Influência](imaages/../images/Mapa_Inf_HelpLife.jpeg)
 ![Exemplo Brainstorm](imaages/../images/Brainstorm_HelpLife.png)
 ![Exemplo Mural de Possibilidades](imaages/../images/Mural_Possibilidades_HelpLife.png)
 
@@ -290,16 +290,43 @@ A tela principal do usuário “Doador” possui informações sobre as doaçõe
 **Tela Encontrar Receptor - Wireframe**:
 ![Tela de Encontrar Receptor](imaages/../images/Tela_Encontrar_Receptores_Wireframe.png)
 
+**Tela Encontrar Receptor - Alta Fidelidade**:
+![Tela de Encontrar Receptor- Alta Fidelidade ](imaages/../images/Tela_Encontra_Receptor_AltaFidelidade.png)
+
+
 Tela Perguntas Frequentes 
 
 A tela de perguntas frequentes tem como proposta solucionar as dúvidas mais comuns que os usuários têm acerca da doação de sangue. Os componentes da interface seguem:
 Cartão de dúvida: apresentam-se inicialmente fechados apenas com o nome da pergunta aparecendo, caso o usuário clique em algum deles, o cartão irá se expandir e exibir as informações a respeito do tema.
 Link para adicionar uma dívida: ao final da página encontra-se um link para que o usuário possa cadastrar uma dúvida caso ele não encontre sua dúvida ali. Este link deve enviar o usuário para um formulário em que ele cadastrará sua dúvida, que será analisada por um time técnico e será adicionada ao site juntamente com a sua resposta.
 
+**Tela Perguntas Frequentes - Wireframe**:
+![Tela de Perguntas Frequentes](imaages/../images/Tela_Perguntas_Frequentes.png)
+
+**Tela Perguntas Frequentes - Alta Fidelidade**:
+![Tela de Perguntas Frequentes- Alta Fidelidade](imaages/../images/Tela_Perguntas_Frequentes_AltaFidelidade.png)
+
+
+Tela Pré-Requisitos
+A tela Pré-Requisitos contém, em forma de lista UL, os requisitos, impeditivos e orientações para a doação de sangue. As informações devem ser tiradas de órgãos públicos de saúde. 
+Esta tela pode ser acessada pelo botão “Pré-requisitos e informações” na Navbar do site e, antes de finalizar o agendamento de uma doação, o usuário recebe um pop-up que o lembra de verificar os pré-requisitos caso ainda não tenha feito.
+
+
+
 Tela Encontrar Hemocentros
 A tela "Encontrar Hemocentros" também é uma das principais do site, e nela, o usuário pode pesquisar - utilizando seu endereço ou CEP - quais são os Hemocentros na sua região/região pesquisada 
 
+**Tela Encontrar Hemocentros - Wireframe**:
+![Tela de Encotrar Hemocentrps](imaages/../images/Tela_Encontra_Hemocentro.png)
+
+**Tela Encontrar Hemocentros - Alta Fidelidade**:
+![Tela de Encontrar Hemocentros- Alta Fidelidade](imaages/../images/Tela_Encontra_Hemocentro_AltaFidelidade.png)
+
+
+
+
 Tela Compartilhe a causa
+
 Esta tela é destinada ao compartilhamento de campanhas de doações de sangue pessoais ou regionais. Nela, qualquer usuário pode cadastrar e compartilhar uma campanha. Seguem seus principais componentes:
 Barra de pesquisa: permite que o usuário procure o nome de uma campanha ou o nome de um usuário que esteja com uma campanha cadastrada. 
 Botões de filtro: permitem o usuário a realizar uma busca personalizada, tendo as categorias de:
@@ -311,6 +338,14 @@ Uma imagem ilustrativa da campanha
 O nome do usuário que publicou
 Um texto opcional, escrito pelo usuário
 Um botão para compartilhar a campanha, ele gera um link que pode ser compartilhado em qualquer plataforma
+
+
+Tela Agendar Doação
+
+Esta tela possui um formulário para realizar o agendamento da doação de sangue, inspirado nas perguntas realizadas para o agendamento presencial ou via telefonema e nas plataformas de hemocentros que já possuem um formulário para agendamento online.
+O usuário pode acessar esta tela clicando no botão “Agendar doação” na Navbar presente em todas as páginas do site, ou, ao encontrar um receptor e clicar em “Fazer doação” em seu cartão. Neste caso, os dados do receptor são preenchidos automaticamente.
+
+
 
 
 
