@@ -139,8 +139,6 @@ As personas criadas durante o processo de entendimento do problema são apresent
 >  **PERSONA 05 - CAROLINA** 
 > ![Exemplo de Persona](imaages/../images/Persona_5.png)
 
-**Exemplo Mapa de Empatia **
-* ![Exemplo de Mapa de Empatia ](imaages/../images/persona.png)
 
 
 ## Histórias de Usuários
@@ -314,7 +312,11 @@ Tela Pré-Requisitos
 A tela Pré-Requisitos contém, em forma de lista UL, os requisitos, impeditivos e orientações para a doação de sangue. As informações devem ser tiradas de órgãos públicos de saúde. 
 Esta tela pode ser acessada pelo botão “Pré-requisitos e informações” na Navbar do site e, antes de finalizar o agendamento de uma doação, o usuário recebe um pop-up que o lembra de verificar os pré-requisitos caso ainda não tenha feito.
 
+**Tela Pré-Requisitos - Wireframe**:
+![Tela de Perguntas Frequentes](imaages/../images/Pre_Requisitos_Wireframe.png)
 
+**Tela Pré-Requisitos - Alta Fidelidade**:
+![Tela de Perguntas Frequentes- Alta Fidelidade](imaages/../images/Pre_Requisitos_Alta_Fidelidade.png)
 
 **Tela Encontrar Hemocentros**
 A tela "Encontrar Hemocentros" também é uma das principais do site, e nela, o usuário pode pesquisar - utilizando seu endereço ou CEP - quais são os Hemocentros na sua região/região pesquisada 
