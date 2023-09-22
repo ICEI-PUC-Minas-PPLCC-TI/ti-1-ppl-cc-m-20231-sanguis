@@ -1,4 +1,14 @@
-# Documentação do Projeto
+# Help Life
+## Doar é conectar
+
+Grupo:
+- Ana Beatriz Costa Viana
+- Gustavo Vilarinho
+- Mariana Vitória
+- Matheus Barros
+- Matheus Campos
+- Vinícius Xavier
+
 
 A documentação do projeto é composta pelos seguintes itens: 
  - [Processo de Design Thinking](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-sanguis/blob/master/docs/01%20-%20design%20thinking/Help-Life-DesignThinking.pdf)
