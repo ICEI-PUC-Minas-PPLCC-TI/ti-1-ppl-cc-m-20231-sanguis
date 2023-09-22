@@ -361,7 +361,8 @@ O usuário pode acessar esta tela clicando no botão “Agendar doação” na N
 ![Tela Agendar Doacao- Alta Fidelidade](imaages/../images/Tela_Agenda_Doacao_AltaFidelidade.png)
 
 
-
+##Link com protótipo interativo do Figma
+[Fimga - Help Life](https://www.figma.com/file/bjhcX1Hse7eNc4FHsYYSTn/Sangue?type=design&node-id=0-1&mode=design&t=FvGCFw4COHySvljj-0)
 
 
 # Metodologia
